@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="../../Inf3121Tests/TC0.html">TC0</a></td></tr>
+<tr><td><a href="TC1.html">TC1</a></td></tr>
+<tr><td><a href="TC2.html">TC2</a></td></tr>
+<tr><td><a href="TC3.html">TC3</a></td></tr>
+<tr><td><a href="TC4.html">TC4</a></td></tr>
+<tr><td><a href="TC5.html">TC5</a></td></tr>
+<tr><td><a href="TC6.html">TC6</a></td></tr>
+<tr><td><a href="TC7.html">TC7</a></td></tr>
+<tr><td><a href="TC8.html">TC8</a></td></tr>
+<tr><td><a href="TC9.html">TC9</a></td></tr>
+<tr><td><a href="TC10.html">TC10</a></td></tr>
+<tr><td><a href="TC11.html">TC11</a></td></tr>
+<tr><td><a href="TC12.html">TC12</a></td></tr>
+</tbody></table>
+</body>
+</html>

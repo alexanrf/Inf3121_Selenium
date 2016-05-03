@@ -8,7 +8,7 @@
 <body>
 <table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
 <tr><td><b>Test Suite</b></td></tr>
-<tr><td><a href="../../Inf3121Tests/TC0.html">TC0</a></td></tr>
+<tr><td><a href="TC0.html">TC0</a></td></tr>
 <tr><td><a href="TC1.html">TC1</a></td></tr>
 <tr><td><a href="TC2.html">TC2</a></td></tr>
 <tr><td><a href="TC3.html">TC3</a></td></tr>
